@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "281033233479",
+    "project_id": "brew-crew-ec601",
+    "storage_bucket": "brew-crew-ec601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281033233479:android:7dabfa1c130f7ce70e0d62",
+        "android_client_info": {
+          "package_name": "com.satasme.binary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281033233479-q378rghf5ag709r1mgsfritcbe741r0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satasme.binary_app",
+            "certificate_hash": "1dc88530a619ff259a7aeb0c54c1e30e10bf2e4e"
+          }
+        },
+        {
+          "client_id": "281033233479-mbubtitpipvseu7pme6icq33hvsmm6vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HozYqCWoJaBOERRhAzTiYyndkZHM_kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281033233479-mbubtitpipvseu7pme6icq33hvsmm6vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281033233479-2v01b86fusq6itgis1k0c4ii02531ku8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.satasme.binaryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
